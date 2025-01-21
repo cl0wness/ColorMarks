@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorMarks</string>
+    <string name="randomNumber">Случайное число</string>
+    <string name="exitFromApp">Выход из приложения</string>
+    <string name="colorValue">Цветовое качество</string>
+    <string name="enterMark">Введите оценку</string>
+</resources>
